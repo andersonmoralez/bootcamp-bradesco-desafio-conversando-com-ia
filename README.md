@@ -3,7 +3,7 @@
 # 🎙️ Multi-Language Voice Assistant: Whisper + Gemini AI
 Este projeto consiste em um assistente de voz inteligente capaz de ouvir áudio em diversos idiomas, transcrever o conteúdo, processar a tradução usando modelos de linguagem de última geração (LLMs) e responder vocalmente na linguagem desejada.
 
-Originalmente concebido como um desafio da DIO, este projeto foi evoluído por mim para utilizar o Google Gemini 1.5 Flash, trazendo maior velocidade e eficiência para o pipeline de processamento.
+Originalmente concebido como um desafio da DIO, este projeto foi evoluído por mim para utilizar o Google Gemini 1.5 Flash, trazendo maior velocidade e eficiência para o processamento.
 
 # 🏗️ Arquitetura do Sistema
 O fluxo de dados segue quatro etapas principais:
